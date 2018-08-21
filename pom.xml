@@ -41,6 +41,7 @@
 <distributionManagement>
   <repository>
     <id>testrepo</id>
+	  <name>testrepo</name>
     <url>http://192.168.6.139:8081/nexus/content/repositories/testrepo</url>
   </repository>
 </distributionManagement>
