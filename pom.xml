@@ -40,15 +40,10 @@
   
 <distributionManagement>
     <repository>
-        <id>sunday</id>
-        <name>00321bca3728-releases</name>
-        <url>http://13.232.83.212:8081/repository/hosted/</url>
-    </repository>
-    <snapshotRepository>
-        <id>sunday</id>
-        <name>00321bca3728-snapshots</name>
-        <url>http://13.232.83.212:8081/repository/snapshot/</url>
-    </snapshotRepository>
+        <id>deploymenttest</id>
+        <name>deploymenttest</name>
+        <url>http://192.168.6.139:8081/repository/testrepo/</url>
+    </repository>    
 </distributionManagement>
 
 
