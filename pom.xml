@@ -45,7 +45,7 @@
         <url>http://192.168.6.139:8081/repository/testrepo/</url>
     </repository> 
    <snapshotRepository>
-		<id>tata</id>
+		<id>deploymenttest</id>
 		<name>Internal Releases</name>
 		<url>http://192.168.6.139:8081/nexus/content/repositories/snapshot/</url>
 	</snapshotRepository>
