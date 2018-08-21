@@ -39,18 +39,10 @@
 	</build>
   
 <distributionManagement>
-     <repository>
-        <id>deploymenttest</id>
-        <name>deploymenttest</name>
-        <url>http://192.168.6.139:8081/nexus/content/repositories/testrepo/</url>
-    </repository> 
-   <snapshotRepository>
-		<id>deploymenttest</id>
-		<name>deploymenttest</name>
-		<url>http://192.168.6.139:8081/nexus/content/repositories/testrepo/</url>
-	</snapshotRepository>
-
-
+  <repository>
+    <id>testrepo</id>
+    <url>http://192.168.6.139:8081/nexus/content/repositories/testrepo</url>
+  </repository>
 </distributionManagement>
 
 
